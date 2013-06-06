@@ -1,0 +1,4 @@
+sf_tuts_jobeet:
+    resource: "@SfTutsJobeetBundle/Resources/config/routing.yml"
+    prefix:   /
+
