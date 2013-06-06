@@ -1,0 +1,5 @@
+_assetic:
+    resource: .
+    type: assetic
+_app:
+    resource: 'C:/Program Files/Zend/Apache2/htdocs/Jobeet/app/config/routing_dev.yml'
